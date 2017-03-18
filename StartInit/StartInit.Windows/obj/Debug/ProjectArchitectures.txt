@@ -1,0 +1,1 @@
+D:\Facultate\MIC\Xamarin learning track\task 1\StartInit\StartInit\StartInit.Windows\StartInit.Windows.csproj;neutral
